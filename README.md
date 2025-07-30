@@ -1,5 +1,7 @@
 # Clavis – Bitcoin Hardware Wallet by Xellox
 
+![Xellox Clavis – NFC + Fingerprint Wallet](assets/xellox-clavis-nfc-fingerprint-wallet.png)
+
 **Clavis** is a next-generation Bitcoin hardware wallet built for seamless and secure self-custody.  
 Developed by [Xellox](https://www.xellox.io/), it brings NFC payments, biometric authentication, and tamper protection to your pocket.
 
@@ -47,3 +49,8 @@ To empower Bitcoiners with tools that combine high-end security, usability, and 
 
 This project is licensed under the MIT License.
 
+<!--
+<meta name="title" content="Xellox Clavis – NFC & Fingerprint Bitcoin Wallet">
+<meta name="description" content="Secure Bitcoin transactions with Xellox Clavis hardware wallet – featuring NFC and biometric fingerprint authentication.">
+<meta property="og:image" content="https://raw.githubusercontent.com/HelsinkiHodler/xellox-clavis/main/assets/xellox-clavis-nfc-fingerprint-wallet.png">
+-->
